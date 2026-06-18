@@ -3,7 +3,7 @@ import PageShell from './PageShell';
 const links = [
   { label: 'Email',    href: 'mailto:muhammada138@hotmail.com', external: false },
   { label: 'GitHub',   href: 'https://github.com/muhammada138',           external: true },
-  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/muhammada138/', external: true },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/',                 external: true },
 ];
 
 export default function ContactContent() {

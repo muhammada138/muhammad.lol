@@ -7,9 +7,8 @@ import { playHoverSound } from '../utils/audio';
 const links = [
   { label: 'about',    href: '/about',   external: false },
   { label: 'projects', href: '/projects',external: false },
-  { label: 'resume',   href: '/resume',  external: false },
   { label: 'github',   href: 'https://github.com/muhammada138',          external: true },
-  { label: 'linkedin', href: 'https://www.linkedin.com/in/muhammada138/',external: true },
+  { label: 'linkedin', href: 'https://www.linkedin.com/',external: true },
   { label: 'email',    href: null,       external: false },
 ];
 
